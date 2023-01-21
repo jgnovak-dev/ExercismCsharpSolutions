@@ -5,7 +5,7 @@ This repository contains my solutions to [exercism.org](https://exercism.org) qu
 
 ## :rocket: Goal
 
-Get a little better every day by solving on question per day in 2023.
+Improve with the C# language by solving one problem a day in 2023. 
 
 ## :computer: Cloding the repository
 
