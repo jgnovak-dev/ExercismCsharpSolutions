@@ -13,7 +13,7 @@ This is an example of cloning this repository where the target directory on your
 is `~/Projects/Dotnet/ExercismCsharpSolutions`.
 
 ```cmd
-mkdir -p ~/Projects/Dotnet/ExercismCsharpSolutions
+mkdir -p ~/Projects/Dotnet
 git clone https://github.com/jgnovak-dev/ExercismCsharpSolutions.git ~/Projects/Dotnet/ExercismCsharpSolutions
 ```
 
