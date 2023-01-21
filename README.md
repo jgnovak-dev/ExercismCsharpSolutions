@@ -7,7 +7,7 @@ This repository contains my solutions to [exercism.io](https://exercism.io) ques
 
 Get a little better every day by solving on question per day in 2023.
 
-## :comptuer: Cloding the repository
+## :computer: Cloding the repository
 
 This is an example of cloning this repository where the target directory on your local machine
 is `~/Projects/Dotnet/ExercismCsharpSolutions`.
