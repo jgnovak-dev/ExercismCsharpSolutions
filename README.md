@@ -7,7 +7,7 @@ This repository contains my solutions to [exercism.org](https://exercism.org) qu
 
 Improve with the C# language by solving one problem a day in 2023. 
 
-## :computer: Cloding the repository
+## :computer: Cloning the repository
 
 This is an example of cloning this repository where the target directory on your local machine
 is `~/Projects/Dotnet/ExercismCsharpSolutions`.
