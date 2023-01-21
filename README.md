@@ -1,6 +1,6 @@
 # jgnovak-dev's solutions to Exercism C# track questions
 
-This repository contains my solutions to [exercism.io](https://exercism.io) questions for the 
+This repository contains my solutions to [exercism.org](https://exercism.org) questions for the 
 [C#](https://learn.microsoft.com/en-us/dotnet/csharp/) track.
 
 ## :rocket: Goal
